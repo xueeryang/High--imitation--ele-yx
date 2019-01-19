@@ -1,8 +1,9 @@
- 该项目是借鉴饿了么和美团写的网页版，项目使用了vue2.0和webpack3，数据是模拟后台接口写的模拟数据,node版本是
+> 该项目是借鉴饿了么和美团写的网页版，项目使用了vue2.0和webpack3，数据是模拟后台接口写的模拟数据,node版本是v8
 
 > sell
 
-> install project
+```
+# install project
 git clone git@github.com:xueeryang/High--imitation--ele-yx.git 
 
 ``` bash
@@ -19,7 +20,7 @@ npm run build
 npm run build --report
 ```
 > 项目使用技术：
-vue-cli
+> vue-cli
 vue
 vue-resource
 vue-router
